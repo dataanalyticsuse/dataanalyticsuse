@@ -1,1 +1,1 @@
-Data Analytics SQL Project 1
+Data Analytics Python_Project_(CovidAnalysis) 1
